@@ -1,2 +1,2 @@
 # APNSClient
-Simple APNS client script for development purposes
+APNs tools for development purposes
